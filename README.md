@@ -1,4 +1,4 @@
-<h3> Jinwoo's Github </h3>
+<h3> JINU-CHANG's Github </h3>
 <h5>Hi! I'm jinwoo. I want to be a back-end developer and I'm running towards my goal every day.</h5>
 
 
