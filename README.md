@@ -1,14 +1,14 @@
-<h3> JINU-CHANG's Github </h3>
-<h5>Hi! I'm jinwoo. I want to be a back-end developer and I'm running towards my goal every day.</h5>
+<h3> Welcome to JINU-CHANG's Github </h3>
+I'm dreaming of becoming backend developer
 <hr size="7px">
 
-<h3> Activities</h3>
-<h4> 2022.06 ~ 08 Server team of ✨[Rising Camp](https://risingcamp.com/?gclid=CjwKCAiA-8SdBhBGEiwAWdgtcGnMqWEssLgPh1NZS5l8GEdpumL54uwazSGRRulSw0CoFLvOppagixoCuRsQAvD_BwE)✨, 7th </h4>
-<h4> 2022.08 ~ 12 Development team of 🔥[KUSITMS](https://github.com/KUSITMS-26th)🔥 26th, Korean University Students IT, Management Society </h4>
+<h3>👩‍💻 Activities</h3>
+ 2022.06 ~ 08 Server team of ✨Rising Camp✨, 7th
+<br>
+ 2022.08 ~ 12 Development team of 🔥KUSITMS🔥 26th, Korean University Students IT, Management Society
 
 
 <h3>📚 Skills</h3>
-
 <div>
 <img src="https://img.shields.io/badge/Springboot-339933?style=for-the-badge&logo=Springboot&logoColor=white" width="100" height="25"> 
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white" width="100" height="25">
