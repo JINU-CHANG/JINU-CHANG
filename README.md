@@ -1,23 +1,29 @@
 <h3> JINU-CHANG's Github </h3>
 <h5>Hi! I'm jinwoo. I want to be a back-end developer and I'm running towards my goal every day.</h5>
-
-
 <hr size="7px">
+
+<h3> Activities</h3>
+<h4> 2022.06 ~ 08 Server team of ✨[Rising Camp](https://risingcamp.com/?gclid=CjwKCAiA-8SdBhBGEiwAWdgtcGnMqWEssLgPh1NZS5l8GEdpumL54uwazSGRRulSw0CoFLvOppagixoCuRsQAvD_BwE)✨, 7th </h4>
+<h4> 2022.08 ~ 12 Development team of 🔥[KUSITMS](https://github.com/KUSITMS-26th)🔥 26th, Korean University Students IT, Management Society </h4>
+
 
 <h3>📚 Skills</h3>
 
 <div>
-<img src="https://img.shields.io/badge/Springboot-339933?style=for-the-badge&logo=Springboot&logoColor=white"> 
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white"> 
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"> 
-<img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+<img src="https://img.shields.io/badge/Springboot-339933?style=for-the-badge&logo=Springboot&logoColor=white" width="100" height="25"> 
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white" width="100" height="25">
+<br>
+<img src="https://img.shields.io/badge/Java-3776AB?style=for-the-badge&logo=Java&logoColor=white" width="50" height="25"> 
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white" width="100" height="25">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white" width="100" height="25"> 
+<img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white" width="100" height="25">
 </div>
 <br>
 <br>
 
 ![JINU-CHANG's github stats](https://github-readme-stats.vercel.app/api?username=JINU-CHANG&show_icons=true)
 [![JINU-CHANG's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=JINU-CHANG&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/JINU-CHANG)
+
 
 
 <!--
