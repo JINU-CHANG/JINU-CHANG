@@ -1,10 +1,6 @@
 ### Welcome to JINU-CHANG's Github </h3>
+I'm dreaming of becoming a backend developer!
 <hr size="7px">
-
-### 🎓 Major
-Dongguk Univ. Management Information System & SoftWare / Computer Engineering
-<br>
-
 
 ### 👩‍💻 Activities 
 2022.06 ~ 08 Server team of ✨[Rising Camp](https://risingcamp.com/?gclid=CjwKCAiA-8SdBhBGEiwAWdgtcGnMqWEssLgPh1NZS5l8GEdpumL54uwazSGRRulSw0CoFLvOppagixoCuRsQAvD_BwE) ✨, 7th
