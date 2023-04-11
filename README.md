@@ -7,7 +7,7 @@ I'm dreaming of becoming a backend developer!
 <br>
 [2022.08 ~ 12] Development team of 🔥[KUSITMS](https://github.com/KUSITMS-26th)🔥 26th, Korean University Students IT, Management Society
 <br>
-[2023.01 ~ ing] Executive team & Educator of 🔥[KUSITMS](https://github.com/KUSITMS-27th)🔥 26th, Korean University Students IT, Management Society
+[2023.01 ~ ing] Executive team & Educator of 🔥[KUSITMS](https://github.com/KUSITMS-26th)🔥 27th, Korean University Students IT, Management Society
 <br>
 
 ### 📚 Skills</h3>
