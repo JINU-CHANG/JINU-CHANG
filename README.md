@@ -31,8 +31,7 @@ I'm dreaming of becoming a backend developer!
 <br>
 
 
-![JINU-CHANG's github stats](https://github-readme-stats.vercel.app/api?username=JINU-CHANG)
-<br>
+<!-- ![JINU-CHANG's github stats](https://github-readme-stats.vercel.app/api?username=JINU-CHANG) -->
 [![JINU-CHANG's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=JINU-CHANG&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/JINU-CHANG)
 
 
