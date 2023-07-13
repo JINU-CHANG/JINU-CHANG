@@ -1,13 +1,15 @@
-### Welcome to JINU-CHANG's Github </h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Jinwoo's%20Github&fontSize=90" />
+
+```
 I'm dreaming of becoming a backend developer!
-<hr size="7px">
+```
 
 ### 👩‍💻 Activities
-[2023.01-2023.06] Executive team & Educator of 🔥[KUSITMS](https://github.com/KUSITMS-26th)🔥 27th, Korean University Students IT, Management Society
+[2023.01-2023.06] 한국대학생IT경영학회🔥[KUSITMS](https://github.com/KUSITMS-26th)🔥 27기 교육기획팀 & 백엔드
 <br>
-[2022.08-2022.12] Development team of 🔥[KUSITMS](https://github.com/KUSITMS-26th)🔥 26th, Korean University Students IT, Management Society
+[2022.08-2022.12] 한국대학생IT경영학회🔥[KUSITMS](https://github.com/KUSITMS-26th)🔥 26기 백엔드
 <br>
-[2022.06-2022.08] Server team of ✨[Rising Camp](https://risingcamp.com/?gclid=CjwKCAiA-8SdBhBGEiwAWdgtcGnMqWEssLgPh1NZS5l8GEdpumL54uwazSGRRulSw0CoFLvOppagixoCuRsQAvD_BwE) ✨, 7th
+[2022.06-2022.08] 라이징캠프✨[Rising Camp](https://risingcamp.com/?gclid=CjwKCAiA-8SdBhBGEiwAWdgtcGnMqWEssLgPh1NZS5l8GEdpumL54uwazSGRRulSw0CoFLvOppagixoCuRsQAvD_BwE)✨ 7기 서버파트
 <br>
 
 ### 📚 Skills</h3>
@@ -31,8 +33,9 @@ I'm dreaming of becoming a backend developer!
 <br>
 
 
-<!-- ![JINU-CHANG's github stats](https://github-readme-stats.vercel.app/api?username=JINU-CHANG) -->
+![JINU-CHANG's github stats](https://github-readme-stats.vercel.app/api?username=JINU-CHANG)
 [![JINU-CHANG's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=JINU-CHANG&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/JINU-CHANG)
+
 
 
 
