@@ -2,12 +2,12 @@
 I'm dreaming of becoming a backend developer!
 <hr size="7px">
 
-### 👩‍💻 Activities 
-[2022.06 ~ 08] Server team of ✨[Rising Camp](https://risingcamp.com/?gclid=CjwKCAiA-8SdBhBGEiwAWdgtcGnMqWEssLgPh1NZS5l8GEdpumL54uwazSGRRulSw0CoFLvOppagixoCuRsQAvD_BwE) ✨, 7th
+### 👩‍💻 Activities
+[2023.01-2023.06] Executive team & Educator of 🔥[KUSITMS](https://github.com/KUSITMS-26th)🔥 27th, Korean University Students IT, Management Society
 <br>
-[2022.08 ~ 12] Development team of 🔥[KUSITMS](https://github.com/KUSITMS-26th)🔥 26th, Korean University Students IT, Management Society
+[2022.08-2022.12] Development team of 🔥[KUSITMS](https://github.com/KUSITMS-26th)🔥 26th, Korean University Students IT, Management Society
 <br>
-[2023.01 ~ ing] Executive team & Educator of 🔥[KUSITMS](https://github.com/KUSITMS-26th)🔥 27th, Korean University Students IT, Management Society
+[2022.06-2022.08] Server team of ✨[Rising Camp](https://risingcamp.com/?gclid=CjwKCAiA-8SdBhBGEiwAWdgtcGnMqWEssLgPh1NZS5l8GEdpumL54uwazSGRRulSw0CoFLvOppagixoCuRsQAvD_BwE) ✨, 7th
 <br>
 
 ### 📚 Skills</h3>
