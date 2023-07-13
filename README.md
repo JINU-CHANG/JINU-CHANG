@@ -4,36 +4,36 @@
 I'm dreaming of becoming a backend developer!
 ```
 
-### 👩‍💻 Activities
-[2023.01-2023.06] 한국대학생IT경영학회🔥[KUSITMS](https://github.com/KUSITMS-26th)🔥 27기 교육기획팀 & 백엔드
-<br>
-[2022.08-2022.12] 한국대학생IT경영학회🔥[KUSITMS](https://github.com/KUSITMS-26th)🔥 26기 백엔드
-<br>
-[2022.06-2022.08] 라이징캠프✨[Rising Camp](https://risingcamp.com/?gclid=CjwKCAiA-8SdBhBGEiwAWdgtcGnMqWEssLgPh1NZS5l8GEdpumL54uwazSGRRulSw0CoFLvOppagixoCuRsQAvD_BwE)✨ 7기 서버파트
-<br>
+### Activities.
+|연도|활동명|
+|------|---|
+|2023.01-2023.06|한국대학생IT경영학회🔥[KUSITMS](https://github.com/KUSITMS-26th)🔥 27기 교육기획팀 & 백엔드|
+|2022.08-2022.12|한국대학생IT경영학회🔥[KUSITMS](https://github.com/KUSITMS-26th)🔥 26기 백엔드|
+|2022.06-2022.08|라이징캠프✨[Rising Camp](https://risingcamp.com/?gclid=CjwKCAiA-8SdBhBGEiwAWdgtcGnMqWEssLgPh1NZS5l8GEdpumL54uwazSGRRulSw0CoFLvOppagixoCuRsQAvD_BwE)✨ 7기 서버파트|
 
-### 📚 Skills</h3>
+### Skills.
 <div>
-<img src="https://img.shields.io/badge/Springboot-339933?style=for-the-badge&logo=Spring Boot&logoColor=white"/> 
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Springboot-339933?style=for-the-badge&logo=Spring Boot&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-3776AB?style=for-the-badge&logo=Java&logoColor=white"/> 
+<img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+<img src="https://img.shields.io/badge/Redis-red?style=for-the-badge&logo=Redis&logoColor=white"/>
 <br>
 <img src="http://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white"/>
 <img src="http://img.shields.io/badge/GitHub Actions-2088FF?style=for-the-badge&logo=GitHub Actions&logoColor=white"/>
-<br>
-<img src="https://img.shields.io/badge/Java-3776AB?style=for-the-badge&logo=Java&logoColor=white"/> 
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"/> 
-<img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
-<br>
 <img src="http://img.shields.io/badge/-Github-black?style=for-the-badge&logo=github&link=https://alpox.kr"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white">
- 
+</div>
+
+### Else.
+<div>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"/>
 </div>
 <br>
 
-
-<!--![JINU-CHANG's github stats](https://github-readme-stats.vercel.app/api?username=JINU-CHANG)-->
-<!--[![JINU-CHANG's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=JINU-CHANG&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/JINU-CHANG)-->
+![JINU-CHANG's github stats](https://github-readme-stats.vercel.app/api?username=JINU-CHANG)
+[![JINU-CHANG's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=JINU-CHANG&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/JINU-CHANG)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=bce8cb&height=200&section=footer&text=&fontSize=90" />
 
