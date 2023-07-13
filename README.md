@@ -30,11 +30,10 @@ I'm dreaming of becoming a backend developer!
  
 </div>
 <br>
-<br>
 
 
-![JINU-CHANG's github stats](https://github-readme-stats.vercel.app/api?username=JINU-CHANG)
-[![JINU-CHANG's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=JINU-CHANG&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/JINU-CHANG)
+<!--![JINU-CHANG's github stats](https://github-readme-stats.vercel.app/api?username=JINU-CHANG)-->
+<!--[![JINU-CHANG's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=JINU-CHANG&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/JINU-CHANG)-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=bce8cb&height=200&section=footer&text=&fontSize=90" />
 
