@@ -1,9 +1,5 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=76819c&height=200&text=jinwoo's%20github&fontsize=30&section=header" />
 
-```
-I'm dreaming of becoming a backend developer!
-```
-
 ### Activities.
 |연도|활동명|
 |------|---|
