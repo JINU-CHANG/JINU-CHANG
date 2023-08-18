@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=bce8cb&height=200&section=header&text=Jinwoo's%20Github&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=wave&color=FFB973&height=200&section=header" />
 
 ```
 I'm dreaming of becoming a backend developer!
@@ -35,7 +35,7 @@ I'm dreaming of becoming a backend developer!
 ![JINU-CHANG's github stats](https://github-readme-stats.vercel.app/api?username=JINU-CHANG)
 [![JINU-CHANG's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=JINU-CHANG&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/JINU-CHANG)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=bce8cb&height=200&section=footer&text=&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=wave&color=FFB973&height=200&section=footer&text=&fontSize=90" />
 
 
 <!--
