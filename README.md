@@ -1,11 +1,13 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=76819c&height=200&text=jinwoo's%20github&fontsize=30&section=header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=76819c&height=200&section=header" />
 
 ### Activities.
-|연도|활동명|
-|------|---|
-|2023.01-2023.06|한국대학생IT경영학회🔥[KUSITMS](https://www.kusitms.com/)🔥 27기 교육기획팀 & 백엔드|
-|2022.08-2022.12|한국대학생IT경영학회🔥[KUSITMS](https://www.kusitms.com/)🔥 26기 백엔드|
-|2022.06-2022.08|라이징캠프✨[Rising Camp](https://risingcamp.com/?gclid=CjwKCAiA-8SdBhBGEiwAWdgtcGnMqWEssLgPh1NZS5l8GEdpumL54uwazSGRRulSw0CoFLvOppagixoCuRsQAvD_BwE)✨ 7기 서버파트|
+```2024.02 - ing ``` 우아한테크코스 6기 백엔드
+
+```2023.01 - 2023.06``` 한국대학생IT경영학회[[KUSITMS](https://www.kusitms.com/)] 27기 교육기획팀 & 백엔드
+
+```2022.08 - 2022.12``` 한국대학생IT경영학회[[KUSITMS](https://www.kusitms.com/)] 26기 백엔드
+
+```2022.06 - 2022.08``` 라이징캠프[[Rising Camp](https://risingcamp.com/?gclid=CjwKCAiA-8SdBhBGEiwAWdgtcGnMqWEssLgPh1NZS5l8GEdpumL54uwazSGRRulSw0CoFLvOppagixoCuRsQAvD_BwE)] 7기 서버파트
 
 ### Skills.
 <div>
@@ -27,9 +29,6 @@
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"/>
 </div>
 <br>
-
-![JINU-CHANG's github stats](https://github-readme-stats.vercel.app/api?username=JINU-CHANG)
-[![JINU-CHANG's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=JINU-CHANG&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/JINU-CHANG)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=76819c&height=200&section=footer&text=&fontSize=90" />
 
