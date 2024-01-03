@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=76819c&height=200&section=header" />
+## 안녕하세요 장진우입니다 👋🏻
 
 ### Activities.
 ```2024.02 - ing ``` 우아한테크코스 6기 백엔드
@@ -15,12 +15,8 @@
 <img src="https://img.shields.io/badge/Java-3776AB?style=for-the-badge&logo=Java&logoColor=white"/> 
 <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
 <img src="https://img.shields.io/badge/Redis-red?style=for-the-badge&logo=Redis&logoColor=white"/>
-<br>
 <img src="http://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white"/>
 <img src="http://img.shields.io/badge/GitHub Actions-2088FF?style=for-the-badge&logo=GitHub Actions&logoColor=white"/>
-<img src="http://img.shields.io/badge/-Github-black?style=for-the-badge&logo=github&link=https://alpox.kr"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white">
-</div>
 
 ### Else.
 <div>
@@ -30,19 +26,4 @@
 </div>
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=76819c&height=200&section=footer&text=&fontSize=90" />
-
-<!--
-**JINU-CHANG/JINU-CHANG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJINU-CHANG&count_bg=%23EDEBE7&title_bg=%23080809&icon=&icon_color=%23DED2E1&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
