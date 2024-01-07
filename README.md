@@ -1,7 +1,5 @@
 ## 안녕하세요 장진우입니다 👋🏻
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJINU-CHANG&count_bg=%23E492D6&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
 ### Activities.
 - ```2024.02 - ing ``` 우아한테크코스 6기 백엔드
 - ```2023.01 - 2023.06``` 한국대학생IT경영학회[[KUSITMS](https://www.kusitms.com/)] 27기 교육기획팀 & 백엔드
