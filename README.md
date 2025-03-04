@@ -24,5 +24,4 @@
 </div>
 <br>
 
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/generate_badge?boj=jennych)](https://solved.ac/jennych)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jennych)](https://solved.ac/jennych/)
