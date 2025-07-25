@@ -8,7 +8,7 @@
 
 ### Skills.
 <div>
-<img src="https://img.shields.io/badge/Springboot-339933?style=flat-square&logo=Spring Boot&logoColor=white"/>
+<img src="https://img.shields.io/badge/Springboot-339933?style=flat-square&logo=springboot&logoColor=white" />
 <img src="https://img.shields.io/badge/Java-3776AB?style=flat-square&logo=Java&logoColor=white"/> 
 <img src="https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=white">
 <br>
